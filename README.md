@@ -1,3 +1,3 @@
-## Couter App
+## React Calculator
 
-[Live Link](https://counterappreactjs.netlify.app/)
+[Live Link](https://reactjssimplecalc.netlify.app/)

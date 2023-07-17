@@ -5,6 +5,7 @@ function App() {
 
   const calculate = () => {
     try {
+      // eslint-disable-next-line
       setInput(eval(input));
     } catch (error) {
       window.alert("Something went wrong!");
